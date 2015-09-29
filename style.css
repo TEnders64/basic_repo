@@ -5,4 +5,14 @@
 }
 h1{
 	color: blue;
+	text-align: center;
+}
+p, ul{
+	font-size: 0.9em;
+	margin: 10px 100px;
+}
+img{
+	width: 300px;
+	height: 200px;
+	margin: 0px 149px;
 }
